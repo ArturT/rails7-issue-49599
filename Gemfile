@@ -24,7 +24,8 @@ gem "turbo-rails"
 gem "stimulus-rails"
 
 # Use Dart SASS [https://github.com/rails/dartsass-rails]
-gem "dartsass-rails"
+#gem "dartsass-rails"
+gem "sassc-rails"
 
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
