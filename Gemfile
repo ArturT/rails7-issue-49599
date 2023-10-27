@@ -4,7 +4,7 @@ ruby "3.2.2"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 #gem "rails", "~> 7.1.1"
-gem 'rails', github: 'skipkayhil/rails', ref: 'c93a989635d01fa46947b2618a7dde2505c77410'
+gem 'rails', github: 'rails/rails', ref: 'e21ed11d569a31389ff9dad4d3692e736dbecd86' # merged https://github.com/rails/rails/pull/49778
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
